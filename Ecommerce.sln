@@ -7,9 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Android", "Ecomme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.iOS", "Ecommerce\Ecommerce.iOS\Ecommerce.iOS.csproj", "{060DE9A6-2EF3-4081-ADA4-4169D4A02A13}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Ecommerce", "Ecommerce\Ecommerce\Ecommerce.shproj", "{3BE4D464-E86F-4D96-ACFC-5AD9D1147952}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		Ecommerce\Ecommerce\Ecommerce.projitems*{060de9a6-2ef3-4081-ada4-4169d4a02a13}*SharedItemsImports = 4
+		Ecommerce\Ecommerce\Ecommerce.projitems*{3be4d464-e86f-4d96-acfc-5ad9d1147952}*SharedItemsImports = 13
 		Ecommerce\Ecommerce\Ecommerce.projitems*{f771c191-4134-4e67-a4a4-4bcd991e966f}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
